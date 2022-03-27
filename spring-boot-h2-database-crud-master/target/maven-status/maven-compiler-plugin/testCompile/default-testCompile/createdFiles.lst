@@ -1,0 +1,3 @@
+com\diamler\demo\controller\PostControllerTest.class
+com\diamler\demo\service\PostServiceTest.class
+com\diamler\demo\SpringBootJpaH2ApplicationTests.class
