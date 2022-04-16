@@ -1,0 +1,18 @@
+Gopal March 18, 2022
+
+https://java2blog.com/check-if-string-has-all-unique-characters-in-java/
+
+Runnable Interface
+Waittonotify
+threadclass
+waittonotifyAll()
+
+multiprocessing &multithreading 
+Race condition
+Dead lock
+
+
+m
+
+add char hashset
+

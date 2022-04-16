@@ -1,0 +1,12 @@
+
+Write a custom Linkedhashmap program in java?
+
+Figure out first unique character in a String?
+
+Spring boot
+@AutoConfigurations
+@Restcontroller
+@service
+@Repository
+
+
